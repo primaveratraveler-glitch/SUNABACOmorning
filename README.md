@@ -1,1 +1,2 @@
 # SUNABACOmorning
+コチラはGithubでクローンの練習をしているものです！
